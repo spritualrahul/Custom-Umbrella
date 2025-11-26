@@ -1,5 +1,7 @@
 # ☔ Umbrella Customizer — Assignment Submission
 
+Live Demo | Deployed link - https://illustrious-quokka-6411c4.netlify.app/
+
 This is an interactive web project where users can **preview different umbrella colors** and **upload their own logo** to see it placed on the umbrella in real time.  
 It demonstrates clean and structured **HTML, CSS & JavaScript** skills with a smooth user experience.
 
