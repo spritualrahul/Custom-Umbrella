@@ -41,13 +41,15 @@ _All objectives successfully implemented._
 
 > Screenshots folder included in the submission.
 
-| View | Screenshot |
-|------|------------|
-| Blue Umbrella | ![Blue](screenshots/blue.png) |
-| Pink Umbrella | ![Pink](screenshots/pink.png) |
-| Yellow Umbrella + Logo | ![Yellow](screenshots/yellow.png) |
+<img width="1916" height="830" alt="Screenshot 2025-11-26 124420" src="https://github.com/user-attachments/assets/106984e9-f924-4c52-99df-d5ee9b064a90" />
+
+
+ <img width="1920" height="827" alt="Screenshot 2025-11-26 124447" src="https://github.com/user-attachments/assets/59e2a634-a40b-4b8a-9247-619e3eb314db" />
+
+ <img width="1920" height="826" alt="Screenshot 2025-11-26 124503" src="https://github.com/user-attachments/assets/f9a362d0-cc92-4ff4-a9be-b98b446e9494" />
+
+
 
 ---
 
-## 📂 Project Structure
 
