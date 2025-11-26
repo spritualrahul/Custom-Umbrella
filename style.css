@@ -87,11 +87,12 @@ body[data-theme="yellow"] {
   position: absolute;
   left: 50%;
   bottom: 12%;
-  transform: translateX(-50%); 
-  opacity: 0; 
+  transform: translateX(-50%);
+  opacity: 0;
   transition: opacity 0.2s ease-out;
-  
+  max-width: 15%; 
 }
+
 
 .logo-image {
   width: 100%;
