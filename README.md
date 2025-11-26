@@ -26,8 +26,8 @@ _All objectives successfully implemented._
 | Color change with smooth loader animation | ✔ |
 | Theme background based on umbrella color | ✔ |
 | Hidden filename for cleaner UI | ✔ |
-| Mobile-friendly layout | ✔ |
-| Clean, beginner-friendly code | ✔ |
+
+
 
 ---
 
